@@ -1,5 +1,3 @@
-# BFS vs A* Search Profiling (8-Puzzle)
-
 **Course:** 02AML204 – Introduction to Artificial Intelligence
 **PRN:** 25UAM061 | **Name:** Atharv Deepak Shinde | **Division:** A
 
